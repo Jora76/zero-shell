@@ -1,0 +1,13 @@
+[package]
+name = "zero_shell"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustyline = "*"
+users = "*"
+chrono = "*"
+colored = "*"
+regex = "*"
+signal-hook = "0.3.17"
+nix = "*"
